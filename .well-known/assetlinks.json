@@ -3,6 +3,7 @@
       "target": {
         "namespace": "android_app",
         "package_name": "app.netlify.lgugatepasss.twa",
-        "sha256_cert_fingerprints": ["5D:26:09:C4:6F:FF:97:E2:44:24:AC:F6:4A:A5:14:A6:D5:FB:69:8A:F0:AA:F9:78:B5:D0:BF:BE:8F:B9:EE:78"]
+        "sha256_cert_fingerprints": ["05:E8:BF:18:A7:CA:05:40:38:3C:93:9D:07:3A:D8:D2:FB:08:A7:93:1E:08:8C:02:D1:31:98:46:B7:F5:93:43"]
       }
     }]
+
