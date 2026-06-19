@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.lgugatepasss.twa",
+        "sha256_cert_fingerprints": ["E1:50:F3:E6:A3:B2:25:F6:BA:02:8A:6F:DC:4C:52:AF:95:19:05:84:E0:33:98:A6:E8:F3:B1:E9:03:28:D5:2C"]
+      }
+    }]
